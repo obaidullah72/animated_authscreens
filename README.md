@@ -148,8 +148,25 @@ class CustomButton extends StatelessWidget {
 
 ---
 
-## License
+## 🤝 Contributing
 
-This project is open-source and available under the MIT License.
+We welcome contributions! Feel free to submit a **pull request** or open an issue to discuss potential improvements.
 
-Feel free to contribute and make improvements!
+---
+
+## 🛡️ License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 📬 Contact
+
+For any questions or suggestions, feel free to reach out:
+
+- **GitHub**: [obaidullah72](https://github.com/obaidullah72)
+- **LinkedIn**: [obaidullah72](https://www.linkedin.com/in/obaidullah72/)
+
+---
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=obaidullah72&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
