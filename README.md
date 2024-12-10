@@ -25,6 +25,8 @@ This project demonstrates an **animated Signup and Login page** using Flutter. T
 ## Demo
 
 Watch the demo video below:
+
+
 <img src="assets/startscreen.gif" width="200">
 
 ---
