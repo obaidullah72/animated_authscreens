@@ -24,7 +24,11 @@ This project demonstrates an **animated Signup and Login page** using Flutter. T
 
 ## Demo
 
-Watch the demo video here: **[startscreen.mp4](assets/startscreen.mp4)**
+Watch the demo video below:
+
+<video src="assets/startscreen.mp4" controls="controls" style="max-width: 100%; height: auto;">
+Your browser does not support the video tag.
+</video>
 
 ---
 
