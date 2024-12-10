@@ -35,19 +35,6 @@ dependencies:
 
 ---
 
-## File Structure
-
-plaintext
-lib/
-├── screens/
-│   ├── signup_screen.dart    # Signup page implementation
-│   ├── login_screen.dart     # Login page implementation
-├── widgets/
-│   ├── custom_button.dart    # Reusable button widget
-│   ├── custom_field.dart     # Reusable text field widget
-
-
-
 ## How It Works
 
 ### **Signup Screen**
