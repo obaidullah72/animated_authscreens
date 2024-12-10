@@ -16,9 +16,15 @@ This project demonstrates an **animated Signup and Login page** using Flutter. T
 
 ## Screenshots
 
-| Signup Page | Login Page |
-|-------------|------------|
-| ![Signup](path/to/signup-screenshot.png) | ![Login](path/to/login-screenshot.png) |
+| Signup Page                     | Login Page                     |
+|----------------------------------|---------------------------------|
+| ![Signup](assets/signupscreen.png) | ![Login](assets/loginscreen.png) |
+
+---
+
+## Demo
+
+Watch the demo video here: **[startscreen.mp4](assets/startscreen.mp4)**
 
 ---
 
@@ -45,6 +51,10 @@ lib/
 ├── widgets/
 │   ├── custom_button.dart    # Reusable button widget
 │   ├── custom_field.dart     # Reusable text field widget
+assets/
+├── loginscreen.png            # Login screen screenshot
+├── signupscreen.png           # Signup screen screenshot
+├── startscreen.mp4            # Demo video
 ```
 
 ---
