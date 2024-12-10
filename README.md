@@ -35,6 +35,20 @@ dependencies:
 
 ---
 
+## File Structure
+
+```plaintext
+lib/
+├── screens/
+│   ├── signup_screen.dart    # Signup page implementation
+│   ├── login_screen.dart     # Login page implementation
+├── widgets/
+│   ├── custom_button.dart    # Reusable button widget
+│   ├── custom_field.dart     # Reusable text field widget
+```
+
+---
+
 ## How It Works
 
 ### **Signup Screen**
@@ -89,7 +103,7 @@ FadeInDown(
 
 ### Custom Button Implementation
 
-dart
+```dart
 class CustomButton extends StatelessWidget {
   final VoidCallback onPressed;
   final String text;
@@ -108,7 +122,7 @@ class CustomButton extends StatelessWidget {
     );
   }
 }
-
+```
 
 ---
 
@@ -119,6 +133,7 @@ class CustomButton extends StatelessWidget {
 - Add validation for input fields.
 - Enhance animations for a smoother experience.
 
+---
 
 ## License
 
