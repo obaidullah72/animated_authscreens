@@ -86,11 +86,20 @@ assets/
 
 ---
 
-## How to Use
+## 🚀 How to Run Locally
 
-1. Clone the repository.
-2. Add the required dependencies in your `pubspec.yaml`.
-3. Run the application using:
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/obaidullah72/animated_authscreens.git
+   cd animated_authscreens
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app**:
    ```bash
    flutter run
    ```
