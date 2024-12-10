@@ -1,10 +1,10 @@
-# Animated Signup and Login Page
+# ✨ Animated Signup and Login Page
 
 This project demonstrates an **animated Signup and Login page** using Flutter. The app incorporates animations, custom UI components, and linear gradients to provide a visually appealing and interactive user experience.
 
 ---
 
-## Features
+## 🌟 Features
 
 - **Custom Signup and Login Pages**: Designed with clean and modern UI.
 - **Smooth Animations**: Using the `animate_do` package for fade-in and elastic effects.
@@ -14,7 +14,7 @@ This project demonstrates an **animated Signup and Login page** using Flutter. T
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 | Signup Page                     | Login Page                     |
 |----------------------------------|---------------------------------|
@@ -22,16 +22,15 @@ This project demonstrates an **animated Signup and Login page** using Flutter. T
 
 ---
 
-## Demo
+## 🎥 Demo
 
 Watch the demo video below:
-
 
 <img src="assets/startscreen.gif" width="200">
 
 ---
 
-## Dependencies
+## 🛠️ Dependencies
 
 Add the following dependencies to your `pubspec.yaml` file:
 
@@ -44,7 +43,7 @@ dependencies:
 
 ---
 
-## File Structure
+## 📂 Project Structure
 
 ```plaintext
 lib/
@@ -62,9 +61,9 @@ assets/
 
 ---
 
-## How It Works
+## 🔍 How It Works
 
-### **Signup Screen**
+### Signup Screen
 
 - **Header**: Includes an introductory message with animations (`FadeInDown`).
 - **Fields**: 
@@ -75,7 +74,7 @@ assets/
 - **Animations**: Fields and buttons appear with `FadeInUp` effects.
 - **Social Media Login**: Buttons for Google and Apple with gradient styling.
 
-### **Login Screen**
+### Login Screen
 
 - **Header**: Welcomes the user with animations (`FadeInDown`).
 - **Fields**:
@@ -86,7 +85,9 @@ assets/
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Getting Started
+
+### Run Locally
 
 1. **Clone the repository**:
    ```bash
@@ -106,7 +107,7 @@ assets/
 
 ---
 
-## Code Highlights
+## 💡 Code Highlights
 
 ### Example of Animated Header
 
@@ -148,7 +149,7 @@ class CustomButton extends StatelessWidget {
 
 ---
 
-## Future Enhancements
+## 📈 Future Enhancements
 
 - Add backend integration for user authentication.
 - Include additional social media login options.
